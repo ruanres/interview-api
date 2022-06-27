@@ -1,0 +1,6 @@
+### GET Movies
+GET http://localhost:8080/movies?year=2022 HTTP/1.1
+
+
+### GET with Errors
+GET http://localhost:8080/error HTTP/1.1
