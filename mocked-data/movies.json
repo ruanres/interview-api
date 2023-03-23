@@ -1,16 +1,19 @@
 {
   "movies": [
     {
+      "id": "1",
       "name": "Avatar 2",
       "year": "2022",
       "synopsis": "Ex est minim in officia commodo laborum nulla ipsum voluptate dolor consequat."
     },
     {
+      "id": "2",
       "name": "Lamb",
       "year": "2021",
       "synopsis": "Nostrud id qui labore veniam dolore dolor excepteur pariatur labore."
     },
     {
+      "id": "3",
       "name": "Tenet",
       "year": "2020",
       "synopsis": "Tempor quis dolor nisi adipisicing quis enim nulla laboris."
